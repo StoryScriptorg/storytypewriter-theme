@@ -1,0 +1,1 @@
+{"mappings":"SAAgB,yCAAK,CAAC,GAAW,EAAU,CAAC;IACxC,MAAM,EAAE,OAAO,EAAE,GAAG,CAAC,CAAC;AAC1B,CAAC","sources":["src/index.ts"],"sourcesContent":["export function hello(who: string): string {\n    return `Hello, ${who}!`;\n}"],"names":[],"version":3,"file":"storytypewriter_theme.js.map"}
