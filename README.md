@@ -3,4 +3,4 @@
 
 This package is a base package for themes in StoryTypewriter.
 
-Though, With this package you can also create a CodeMirror theme with the utility `createCodeMirrorTheme` function.
+With this package you can also create a CodeMirror theme with the utility `createCodeMirrorTheme` function.
